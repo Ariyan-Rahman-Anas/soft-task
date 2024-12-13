@@ -1,5 +1,5 @@
 ## Classy Modern Smartwatch Shopping Cart
--This project is a **React-based shopping cart system** designed for the Classy Modern Smartwatch. It utilizes **React**, **Redux Toolkit**, **Redux Persist**, and **Tailwind CSS** for efficient state management, persistent data storage, and modern styling.
+This project is a **React-based shopping cart system** for the Classy Modern Smartwatch. It uses **React**, **Redux Toolkit**, **Redux Persist**, and **Tailwind CSS** for state management, data persistence, and styling.
 ---
 
 ## Live Preview
