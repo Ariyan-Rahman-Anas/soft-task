@@ -6,11 +6,11 @@ import { persistReducer, persistStore } from "redux-persist";
 const persistConfig = {
   key: "root",
   storage,
-  whitelist: ["cart"],
+  whitelist: ["shoppingCart"],
 };
 
 const rootReducer = combineReducers({
-  cart: cartReducer,
+  shoppingCart: cartReducer,
 });
 
 
