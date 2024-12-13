@@ -1,7 +1,10 @@
-# Classy Modern Smartwatch Shopping Cart
-This project is a **React-based shopping cart system** designed for the Classy Modern Smartwatch. It utilizes **React**, **Redux Toolkit**, **Redux Persist**, and **Tailwind CSS** for efficient state management, persistent data storage, and modern styling.
+## Classy Modern Smartwatch Shopping Cart
+-This project is a **React-based shopping cart system** designed for the Classy Modern Smartwatch. It utilizes **React**, **Redux Toolkit**, **Redux Persist**, and **Tailwind CSS** for efficient state management, persistent data storage, and modern styling.
 ---
 
+## Live Preview
+- https://task-softnio.vercel.app/
+---
 
 ## Technologies Used
 - **React**: Component-based JavaScript library for building user interfaces.
