@@ -19,7 +19,7 @@ This project is a **React-based shopping cart system** for the Classy Modern Sma
   - Choose wrist size and band color.
   - Dynamically adjust product quantity.
 - **Cart Management**:
-  - Add, update, or remove items from the cart.
+  - Add, update, and clear items from the cart.
   - Real-time updates for total price and quantity.
 - **Modal Interface**:
   - Display a modal for cart overview with options to continue shopping or checkout.
